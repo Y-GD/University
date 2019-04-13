@@ -4,4 +4,4 @@ hohihio
 ## title2
 *IIIIIIIIIIIIIIIIIII*
 IIIIIIIIII
-$ x^2 $
+$$x^2$$
